@@ -1,0 +1,21 @@
+  {
+    "name": "yt_downloader",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "nodemon index.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "and": "^0.0.3",
+      "cors": "^2.8.5",
+      "express": "^4.18.2",
+      "nodemon": "^3.0.2",
+      "npm": "^10.3.0",
+      "start": "^5.1.0",
+      "ytdl-core": "^4.11.5"
+    }
+  }
